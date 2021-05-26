@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/diseaseSim/static/css/main.f0078e83.chunk.css",
-    "main.js": "/diseaseSim/static/js/main.7934954b.chunk.js",
-    "main.js.map": "/diseaseSim/static/js/main.7934954b.chunk.js.map",
-    "runtime-main.js": "/diseaseSim/static/js/runtime-main.1c23638a.js",
-    "runtime-main.js.map": "/diseaseSim/static/js/runtime-main.1c23638a.js.map",
-    "static/js/2.3f3c6545.chunk.js": "/diseaseSim/static/js/2.3f3c6545.chunk.js",
-    "static/js/2.3f3c6545.chunk.js.map": "/diseaseSim/static/js/2.3f3c6545.chunk.js.map",
-    "static/js/3.a2356f09.chunk.js": "/diseaseSim/static/js/3.a2356f09.chunk.js",
-    "static/js/3.a2356f09.chunk.js.map": "/diseaseSim/static/js/3.a2356f09.chunk.js.map",
-    "index.html": "/diseaseSim/index.html",
-    "static/css/main.f0078e83.chunk.css.map": "/diseaseSim/static/css/main.f0078e83.chunk.css.map",
-    "static/js/2.3f3c6545.chunk.js.LICENSE.txt": "/diseaseSim/static/js/2.3f3c6545.chunk.js.LICENSE.txt"
+    "main.css": "/disease-sim/static/css/main.f0078e83.chunk.css",
+    "main.js": "/disease-sim/static/js/main.7934954b.chunk.js",
+    "main.js.map": "/disease-sim/static/js/main.7934954b.chunk.js.map",
+    "runtime-main.js": "/disease-sim/static/js/runtime-main.436af743.js",
+    "runtime-main.js.map": "/disease-sim/static/js/runtime-main.436af743.js.map",
+    "static/js/2.3f3c6545.chunk.js": "/disease-sim/static/js/2.3f3c6545.chunk.js",
+    "static/js/2.3f3c6545.chunk.js.map": "/disease-sim/static/js/2.3f3c6545.chunk.js.map",
+    "static/js/3.a2356f09.chunk.js": "/disease-sim/static/js/3.a2356f09.chunk.js",
+    "static/js/3.a2356f09.chunk.js.map": "/disease-sim/static/js/3.a2356f09.chunk.js.map",
+    "index.html": "/disease-sim/index.html",
+    "static/css/main.f0078e83.chunk.css.map": "/disease-sim/static/css/main.f0078e83.chunk.css.map",
+    "static/js/2.3f3c6545.chunk.js.LICENSE.txt": "/disease-sim/static/js/2.3f3c6545.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1c23638a.js",
+    "static/js/runtime-main.436af743.js",
     "static/js/2.3f3c6545.chunk.js",
     "static/css/main.f0078e83.chunk.css",
     "static/js/main.7934954b.chunk.js"
