@@ -1,6 +1,6 @@
 {
   "name": "disease-sim",
-  "homepage": "https://connerguidry.com/diseaseSim",
+  "homepage": "https://connerguidry.com/disease-sim",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
