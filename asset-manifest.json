@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/disease-sim/static/css/main.f0078e83.chunk.css",
-    "main.js": "/disease-sim/static/js/main.7934954b.chunk.js",
-    "main.js.map": "/disease-sim/static/js/main.7934954b.chunk.js.map",
-    "runtime-main.js": "/disease-sim/static/js/runtime-main.436af743.js",
-    "runtime-main.js.map": "/disease-sim/static/js/runtime-main.436af743.js.map",
-    "static/js/2.3f3c6545.chunk.js": "/disease-sim/static/js/2.3f3c6545.chunk.js",
-    "static/js/2.3f3c6545.chunk.js.map": "/disease-sim/static/js/2.3f3c6545.chunk.js.map",
-    "static/js/3.a2356f09.chunk.js": "/disease-sim/static/js/3.a2356f09.chunk.js",
-    "static/js/3.a2356f09.chunk.js.map": "/disease-sim/static/js/3.a2356f09.chunk.js.map",
-    "index.html": "/disease-sim/index.html",
-    "static/css/main.f0078e83.chunk.css.map": "/disease-sim/static/css/main.f0078e83.chunk.css.map",
-    "static/js/2.3f3c6545.chunk.js.LICENSE.txt": "/disease-sim/static/js/2.3f3c6545.chunk.js.LICENSE.txt"
+    "main.css": "/disease-sim-web/static/css/main.f0078e83.chunk.css",
+    "main.js": "/disease-sim-web/static/js/main.7934954b.chunk.js",
+    "main.js.map": "/disease-sim-web/static/js/main.7934954b.chunk.js.map",
+    "runtime-main.js": "/disease-sim-web/static/js/runtime-main.daa5e447.js",
+    "runtime-main.js.map": "/disease-sim-web/static/js/runtime-main.daa5e447.js.map",
+    "static/js/2.3f3c6545.chunk.js": "/disease-sim-web/static/js/2.3f3c6545.chunk.js",
+    "static/js/2.3f3c6545.chunk.js.map": "/disease-sim-web/static/js/2.3f3c6545.chunk.js.map",
+    "static/js/3.a2356f09.chunk.js": "/disease-sim-web/static/js/3.a2356f09.chunk.js",
+    "static/js/3.a2356f09.chunk.js.map": "/disease-sim-web/static/js/3.a2356f09.chunk.js.map",
+    "index.html": "/disease-sim-web/index.html",
+    "static/css/main.f0078e83.chunk.css.map": "/disease-sim-web/static/css/main.f0078e83.chunk.css.map",
+    "static/js/2.3f3c6545.chunk.js.LICENSE.txt": "/disease-sim-web/static/js/2.3f3c6545.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.436af743.js",
+    "static/js/runtime-main.daa5e447.js",
     "static/js/2.3f3c6545.chunk.js",
     "static/css/main.f0078e83.chunk.css",
     "static/js/main.7934954b.chunk.js"
